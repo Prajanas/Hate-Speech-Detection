@@ -1,0 +1,7 @@
+count,hate_speech,offensive_language,neither,class,Tweet
+1,1,0,0,0,I hate you
+2,0,1,0,1,You are so stupid
+3,0,0,1,2,Have a nice day!
+4,0,1,0,1,You're an idiot
+5,1,0,0,0,I wish you didn't exist
+6,0,0,1,2,"Good morning, everyone"
